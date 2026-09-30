@@ -1,7 +1,7 @@
 import React from "react";
 import data from "../assets/data.json";
 import SectionHeader from "./SectionHeader";
-import githubIcon from "../assets/icons/Github.png";
+import githubIcon from "../assets/icons/github.png";
 import linkedinIcon from "../assets/icons/linkedin.png";
 import mediumIcon from "../assets/icons/medium.png";
 
